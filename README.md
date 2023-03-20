@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DEEPJYOTSINGHKAPOOR
 - 👀 I’m interested in Aws Cloud and Machine Learning
-- 🌱 I’m currently learning Aws Event Bridge
+- 🌱 I’m currently learning Aws Solution Architect
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 You can reach me [here](https://deepjyotsingh.herokuapp.com/)
 
